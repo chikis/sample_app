@@ -8,4 +8,8 @@ module ApplicationHelper
 			"#{base_title} | #{@title}"
 		end
 	end
+	
+	def logo
+		# Fill in.
+	end	
 end
